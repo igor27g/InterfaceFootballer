@@ -1,0 +1,7 @@
+C:\Users\Tadeusz\source\repos\InterfaceFootball\InterfaceFootball\bin\Debug\InterfaceFootball.exe.config
+C:\Users\Tadeusz\source\repos\InterfaceFootball\InterfaceFootball\bin\Debug\InterfaceFootball.exe
+C:\Users\Tadeusz\source\repos\InterfaceFootball\InterfaceFootball\bin\Debug\InterfaceFootball.pdb
+C:\Users\Tadeusz\source\repos\InterfaceFootball\InterfaceFootball\obj\Debug\InterfaceFootball.csprojAssemblyReference.cache
+C:\Users\Tadeusz\source\repos\InterfaceFootball\InterfaceFootball\obj\Debug\InterfaceFootball.csproj.CoreCompileInputs.cache
+C:\Users\Tadeusz\source\repos\InterfaceFootball\InterfaceFootball\obj\Debug\InterfaceFootball.exe
+C:\Users\Tadeusz\source\repos\InterfaceFootball\InterfaceFootball\obj\Debug\InterfaceFootball.pdb
